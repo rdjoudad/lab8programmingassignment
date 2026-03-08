@@ -1,3 +1,10 @@
+"""
+Geometry Calculator
+Ryma Djoudad
+Calculate the area and circumference of circles and rectangles using a user-friendly interface
+3/8/2026
+"""
+
 import circle as cir, rectangle as rec
 # Using aliases in this case is necessary as both circle and rectangle have the function area
 # It can get confusing telling which is which, so using shortened versions of the file names when importing is ideal
